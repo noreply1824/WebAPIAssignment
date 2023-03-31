@@ -1,0 +1,11 @@
+C:\JCI\APITraining\WebAPIAssignment\obj\Release\net6.0\PubTmp\Out\WebAPIAssignment1.exe
+C:\JCI\APITraining\WebAPIAssignment\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\JCI\APITraining\WebAPIAssignment\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\JCI\APITraining\WebAPIAssignment\obj\Release\net6.0\PubTmp\Out\WebAPIAssignment1.dll
+C:\JCI\APITraining\WebAPIAssignment\obj\Release\net6.0\PubTmp\Out\WebAPIAssignment1.deps.json
+C:\JCI\APITraining\WebAPIAssignment\obj\Release\net6.0\PubTmp\Out\WebAPIAssignment1.runtimeconfig.json
+C:\JCI\APITraining\WebAPIAssignment\obj\Release\net6.0\PubTmp\Out\WebAPIAssignment1.pdb
+C:\JCI\APITraining\WebAPIAssignment\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\JCI\APITraining\WebAPIAssignment\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\JCI\APITraining\WebAPIAssignment\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\JCI\APITraining\WebAPIAssignment\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
