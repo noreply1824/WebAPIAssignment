@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\JCI\\APITraining\\WebAPIAssignment\\WebAPIAssignment1.csproj": {}
+    "C:\\Users\\jkuma918\\Documents\\WebAPIAssignment\\WebAPIAssignment1.csproj": {}
   },
   "projects": {
-    "C:\\JCI\\APITraining\\WebAPIAssignment\\WebAPIAssignment1.csproj": {
+    "C:\\Users\\jkuma918\\Documents\\WebAPIAssignment\\WebAPIAssignment1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\JCI\\APITraining\\WebAPIAssignment\\WebAPIAssignment1.csproj",
+        "projectUniqueName": "C:\\Users\\jkuma918\\Documents\\WebAPIAssignment\\WebAPIAssignment1.csproj",
         "projectName": "WebAPIAssignment1",
-        "projectPath": "C:\\JCI\\APITraining\\WebAPIAssignment\\WebAPIAssignment1.csproj",
+        "projectPath": "C:\\Users\\jkuma918\\Documents\\WebAPIAssignment\\WebAPIAssignment1.csproj",
         "packagesPath": "C:\\Users\\jkuma918\\.nuget\\packages\\",
-        "outputPath": "C:\\JCI\\APITraining\\WebAPIAssignment\\obj\\",
+        "outputPath": "C:\\Users\\jkuma918\\Documents\\WebAPIAssignment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
